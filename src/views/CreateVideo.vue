@@ -40,7 +40,7 @@ const onSubmit = () => {
     }else {
     ElNotification({
     title: '投稿成功',
-    message: '您投稿的id为${res.data.id}',
+    message: '您投稿的id为 ${res.data.id}',
     type: 'success',
   })
     }
