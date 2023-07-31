@@ -8,7 +8,8 @@
   active-text-color="#ffd04b"
   router>
   <el-menu-item index="/">首页</el-menu-item>
-  <el-menu-item index="/about">投稿</el-menu-item>
+  <el-menu-item index="/createVideo">投稿</el-menu-item>
+  <el-menu-item index="/about">关于我们</el-menu-item>
 </el-menu>
   </template>
   
